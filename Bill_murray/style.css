@@ -1,0 +1,35 @@
+body {
+  background-image: url("images/your_awesome.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #901302;
+  text-align: center;
+  font-family: Arial black ;
+  color: #fff;
+}
+
+
+#art {
+  width: 550px;
+  margin: 0 auto;
+
+}
+
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+ul li img {
+  width: 85px;
+  border: 0.1px solid #000;
+}
